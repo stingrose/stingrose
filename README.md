@@ -14,21 +14,11 @@
 
 ---
 
-```console
-stingrose@github:~$ whoami
+<div align="center">
 
-  ┌────────────────────────────────────────────────────────┐
-  │  Vykunth                                               │
-  │                                                        │
-  │  I build AI agents and voicebots that run real         │
-  │  workflows end to end. Conversation, automation,       │
-  │  and the plumbing underneath it.                       │
-  │                                                        │
-  │  M.S. Data Science — University at Buffalo             │
-  └────────────────────────────────────────────────────────┘
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1400&color=39FF14&multiline=true&repeat=true&width=760&height=250&lines=%24+whoami;Vykunth;%24+cat+about.txt;I+build+AI+agents+and+voicebots+that+run+real+workflows;end+to+end.+Conversation%2C+automation%2C+and+the+plumbing.;%24+cat+education.txt;M.S.+Data+Science+-+University+at+Buffalo" alt="terminal: whoami" />
 
-stingrose@github:~$ _
-```
+</div>
 
 ---
 
@@ -48,13 +38,6 @@ stingrose@github:~$ _
 
 <br/>
 
-## ⬢ SIGNAL
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=stingrose&show_icons=true&hide_border=true&title_color=00e5ff&icon_color=ff2e88&text_color=9fb3c8&bg_color=0d1117&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stingrose&layout=compact&hide_border=true&title_color=00e5ff&text_color=9fb3c8&bg_color=0d1117&langs_count=6" />
-
-<br/><br/>
-
 ## ⬢ REACH ME
 
 <a href="mailto:stingrose@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00e5ff?style=for-the-badge&logo=gmail&logoColor=0f2027" /></a>
@@ -62,9 +45,7 @@ stingrose@github:~$ _
 <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 -->
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=stingrose&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" />
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,55:203a43,100:0f2027&height=130&section=footer" width="100%" />
 
