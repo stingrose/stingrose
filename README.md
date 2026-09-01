@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,45:203a43,100:00e5ff&height=200&section=header&text=VYKUNTH&fontSize=56&fontColor=eafcff&fontAlignY=34&animation=fadeIn&desc=AI%20Manager&descAlignY=54&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,45:203a43,100:00e5ff&height=190&section=header&text=VYKUNTH&fontSize=64&fontColor=eafcff&fontAlignY=40&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=I+build+AI+agents.;Voicebots+that+actually+pick+up+the+phone.;Shipped%2C+not+demoed." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=1100&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=AI+Engineer;Data+Scientist;ML+Engineer" alt="AI Engineer / Data Scientist / ML Engineer" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 stingrose@github:~$ whoami
 
   ┌────────────────────────────────────────────────────────┐
-  │  Vykunth  — AI Engineer                                │
+  │  Vykunth                                               │
   │                                                        │
   │  I build AI agents and voicebots that run real         │
   │  workflows end to end. Conversation, automation,       │
